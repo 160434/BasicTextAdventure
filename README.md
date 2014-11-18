@@ -8,7 +8,7 @@ Thanks to all, long live GitHub
 
 Summary
 I'm planning to set the game up on a 2D array and linking text input commands to moving the character.
- WHAT I WOULD LIKE:
+WHAT I WOULD LIKE
   Free Movement Linked to North, South, East, etc.
   Items (Weapons, Armor, Health Potions [starting simple])
   Enemies (duh)
